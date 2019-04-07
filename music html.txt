@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<h1 style="color:turquoise;">
+Music
+</h1>
+<h2 style="background:black;color:white;">
+Yes, Music
+</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/I/41zZpDw2XXL._AC_UL130_.jpg" title="one music boi" alt="g clef"/>
+<p>
+<strong>Music is an art form and cultural activity</strong> whose medium is sound organized in time. General definitions of music include common elements such as pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics (loudness and softness), and the sonic qualities of timbre and texture (which are sometimes termed the "color" of a musical sound). Different styles or types of music may emphasize, de-emphasize or omit some of these elements. Music is performed with a vast range of <a href="https://en.wikipedia.org/wiki/Musical_instrument" target="blank">instruments</a> and vocal techniques ranging from singing to rapping; there are solely instrumental pieces, solely vocal pieces (such as songs without instrumental accompaniment) and pieces that combine singing and instruments. The word derives from Greek μουσική (mousike; "art of the Muses").[1] See glossary of musical terminology.
+</p>
+<p>
+In its most general form, the activities describing music as an art form or cultural activity include the creation of works of music (songs, tunes, symphonies, and so on), the criticism of music, the study of the history of music, and the aesthetic examination of music. Ancient Greek and Indian philosophers defined music as tones ordered horizontally as melodies and vertically as harmonies. Common sayings such as "the harmony of the spheres" and "it is music to my ears" point to the notion that music is often ordered and pleasant to listen to. However, 20th-century composer <i>John Cage</i> thought that any sound can be music, saying, for example, "There is no noise, only sound."[2]
+</p>
+<p>
+The creation, performance, significance, and even the definition of music vary according to culture and social context. Indeed, throughout history, some new forms or styles of music have been criticized as "not being music", including <i>Beethoven</i>'s Grosse Fuge string quartet in 1825,[3] early jazz in the beginning of the 1900s[4] and hardcore punk in the 1980s.[5] There are many types of music, including popular music, traditional music, art music, music written for religious ceremonies and work songs such as chanteys. Music ranges from strictly organized compositions–such as Classical music symphonies from the 1700s and 1800s, through to spontaneously played improvisational music such as jazz, and avant-garde styles of chance-based contemporary music from the 20th and 21st centuries.
+</p>
+<p>
+Music can be divided into <b>genres</b> (e.g., country music) and genres can be further divided into <b>subgenres</b> (e.g., country blues and pop country are two of the many country subgenres), although the dividing lines and relationships between music genres are often subtle, sometimes open to personal interpretation, and occasionally controversial. For example, it can be hard to draw the line between some early 1980s hard rock and heavy metal. Within the arts, music may be classified as a performing art, a fine art or as an auditory art. Music may be played or sung and heard live at a rock concert or orchestra performance, heard live as part of a dramatic work (a music theater show or opera), or it may be recorded and listened to on a radio, MP3 player, CD player, smartphone or as film score or TV show. 
+</p>
+<p>
+<a href="https://en.wikipedia.org/wiki/Music" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Clef_Diagram.png/1200px-Clef_Diagram.png" title="source link" alt="music notes" style="width:800px;height:300px;"/></a>
+</p>
+
+By the way, here is a table:
+<br><br>
+<table border="5px" style="border-collapse:collapse;">
+<tr>
+  <th>
+    Name
+  </th>
+  <th>
+    Description
+  </th>
+</tr>
+<tr>
+  <td>
+    Piano
+  </td>
+  <td>
+    an instrument, click click click
+  </td>
+</tr>
+<tr>
+  <td>
+    Guitar
+  </td>
+  <td>
+    another instrument, what do you know...
+  </td>
+</tr>
+</table>
+<br>
+still not satisfied? check out my lists:
+<ul style="list-style-type:square;">
+<li>Eggs</li>
+<li>Milk</li>
+<li>Bread</li>
+</ul>
+<ol type="i">
+<li>crack eggs</li>
+<li>Throw eggs in the trash</li>
+<li>eat bread</li>
+<li>drink milk</li>
+</ol>
+<p>
+next part is a test:
+<br>
+a<sup>b<sup>c<sup>d<sup>e<sup>f<sup>g</sup></sup></sup></sup></sup></sup>
+<br>
+H<sub>2</sub>O
+</p>
+</body>
+</html>
